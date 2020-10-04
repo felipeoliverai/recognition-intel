@@ -11,7 +11,7 @@ In this study, was address the challenge of land use and land cover classificati
 
 
 
-![alt text](https://unilnet.github.io/images/mosaic_EuroSAT.png)
+![EuroSAT overview image](https://github.com/phelber/EuroSAT/blob/master/eurosat_overview_small.jpg?raw=true)
 
 
 <br>
