@@ -18,7 +18,7 @@ In this study, was address the challenge of land use and land cover classificati
 
 
 
-#### Pipeline Solution 
+### Pipeline Solution 
 
  (Describe solution)
  
