@@ -11,9 +11,8 @@ In this study, was address the challenge of land use and land cover classificati
 
 
 
-![Intel dataset](https://www.kaggle.com/puneet6060/intel-image-classification)
+![Intel dataset](https://storage.googleapis.com/kaggle-datasets-images/111880/269359/a16c143f44e79d17f54d5e670f16e03b/dataset-cover.jpg?t=2019-02-01-19-30-12)
 
-LINK: https://www.kaggle.com/puneet6060/intel-image-classification
 
 
 <br>
