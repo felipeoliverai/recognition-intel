@@ -4,10 +4,22 @@
 
 ### Description 
 
-In this study, was address the challenge of land use and land cover classification using Sentinel-2 satellite images. The Sentinel-2 satellite images are openly and freely accessible provided in the Earth observation program Copernicus. We present a novel dataset based on Sentinel-2 satellite images covering 13 spectral bands and consisting out of 10 classes with in total 27,000 labeled and geo-referenced images. We provide benchmarks for this novel dataset with its spectral bands using state-of-the-art deep Convolutional Neural Network (CNNs). With the proposed novel dataset, we achieved an overall classification accuracy of 98.57%. The resulting classification system opens a gate towards a number of Earth observation applications. We demonstrate how this classification system can be used for detecting land use and land cover changes and how it can assist in improving geographical maps.
+This is image data of Natural Scenes around the world make for Intel. The goal of this project isBuilding and training a Convolutional Neural Network that can classify above mentioned categories of images correctly, That is a challenge of Intel Scene classification where must classifier each image with such as true class.
 
 
 <br>
+
+
+### Content
+
+This Data contains around 25k images of size 150x150 distributed under 6 categories.
+
+* buildings -> 0
+* forest -> 1
+* glacier -> 2
+* mountain -> 3
+* sea -> 4
+* street -> 5 
 
 
 
