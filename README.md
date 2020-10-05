@@ -1,4 +1,4 @@
-## EuroSAT : Land Use and Land Cover Classification with Sentinel-2
+## Intel Image Classification
 <hr>
 <br>
 
@@ -11,7 +11,7 @@ In this study, was address the challenge of land use and land cover classificati
 
 
 
-![EuroSAT overview image](https://github.com/phelber/EuroSAT/blob/master/eurosat_overview_small.jpg?raw=true)
+![Intel dataset](https://www.kaggle.com/puneet6060/intel-image-classification)
 
 
 <br>
