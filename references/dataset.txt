@@ -1,1 +1,1 @@
-EuroSAT repository: https://github.com/phelber/EuroSAT
+Intel Images source: https://www.kaggle.com/puneet6060/intel-image-classification
