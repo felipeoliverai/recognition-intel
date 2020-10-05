@@ -1,0 +1,2 @@
+TensorFlow load images: https://www.tensorflow.org/tutorials/load_data/images
+Import images dataset: https://towardsdatascience.com/loading-custom-image-dataset-for-deep-learning-models-part-1-d64fa7aaeca6
