@@ -1,0 +1,1 @@
+EuroSAT repository: https://github.com/phelber/EuroSAT
