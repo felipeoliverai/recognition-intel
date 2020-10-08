@@ -1,4 +1,4 @@
-## Intel Image Classification
+## Intel Image Classification 👁️‍
 <hr>
 <br>
 
