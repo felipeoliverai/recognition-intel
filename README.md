@@ -2,15 +2,16 @@
 <hr>
 <br>
 
-### Description 
+### Description 📄
 
 This is image data of Natural Scenes around the world make for Intel. The goal of this project isBuilding and training a Convolutional Neural Network that can classify above mentioned categories of images correctly, That is a challenge of Intel Scene classification where must classifier each image with such as true class.
 
 
 <br>
+<br>
 
 
-### Content
+### Content 📚
 
 This Data contains around 25k images of size 150x150 distributed under 6 categories.
 
@@ -21,6 +22,7 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 * sea -> 4
 * street -> 5 
 
+<br>
 
 
 ![Intel dataset](https://miro.medium.com/max/700/1*GauhLqkNIW89cFEpDKlWqw.png)
