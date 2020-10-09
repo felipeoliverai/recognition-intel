@@ -1,3 +1,10 @@
+import os 
+import pandas as pd 
+import numpy as np 
+from tqdm import tqdm
+from tensorflow.keras.preprocessing.image import load_img, array_to_img, img_to_array
+
+
 def load_dataset(path): 
 
   %%time 
@@ -21,3 +28,7 @@ def load_dataset(path):
 
   dataframe = pd.DataFrame({"Images": images, "Label": labels})
   return dataframe    
+
+
+if __name__ == "__main__":
+  load_dataset(path=path)
