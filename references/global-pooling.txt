@@ -1,0 +1,2 @@
+article: https://alexisbcook.github.io/2017/global-average-pooling-layers-for-object-localization/
+difference: https://www.quora.com/What-is-the-difference-between-transfer-learning-and-fine-tuning#:~:text=Transfer%20learning%20is%20when%20a,tuned%20on%20a%20second%20task.
