@@ -4,7 +4,7 @@
 
 ### Description 📄
 
-This is image data of Natural Scenes around the world make for Intel. The goal of this project isBuilding and training a Convolutional Neural Network that can classify above mentioned categories of images correctly, That is a challenge of Intel Scene classification where must classifier each image with such as true class.
+This is image data of Natural Scenes around the world make for Intel. The goal of this project is Building and training a Convolutional Neural Network that can classify above mentioned categories of images correctly, That is a challenge of Intel Scene classification where must classifier each image with such as true class.
 
 
 <br>
