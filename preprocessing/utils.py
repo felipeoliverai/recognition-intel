@@ -33,3 +33,7 @@ def load_dataset(path):
   data.append((images, labels))
   
   return data
+
+
+if __main__ == "__name__":
+  load_dataset()
