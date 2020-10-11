@@ -46,17 +46,10 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 
 
-### Dependencies 
+### Dependencies 🔧
 
 
 (Describe project dependencies) 
 
 
 <br> 
-
-
-### References
-
-(Describe references) 
- 
- 
