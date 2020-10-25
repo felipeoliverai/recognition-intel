@@ -36,9 +36,10 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 
 
-### Pipeline Solution 🏭
+### Convolutional neural network Architecture 🏭
 
- (Describe solution)
+
+
  
  
 <br>
