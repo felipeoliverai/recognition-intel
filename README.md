@@ -38,9 +38,9 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 ### Solution Architecture 🏭
 
+<br>
 
-
- ![alt text](https://github.com/Felipe-Oliveira11/Portfolio/blob/master/template.PNG)
+ ![alt text](https://github.com/felipeoliverai/intel-images/blob/main/references/architecture/cnn-build.jpg)
  
 <br>
 <hr>
