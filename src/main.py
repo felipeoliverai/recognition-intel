@@ -147,8 +147,6 @@ def CNN():
   model.add(SpatialDropout2D(0.20))
   model.add(Conv2D(filters=128, kernel_size=(3,3), strides=(1,1), padding="same", activation="relu"))
   model.add(MaxPool2D(pool_size=(2,2), strides=(1,1), padding="valid"))
-  model.add(BatchNormalization())
-  model.add(SpatialDropout2D(0.20))
   model.add(Conv2D(filters=128, kernel_size=(3,3), strides=(1,1), padding="same", activation="relu"))
   model.add(MaxPool2D(pool_size=(2,2), strides=(1,1), padding="valid"))
   model.add(GlobalAveragePooling2D())
