@@ -36,11 +36,11 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 
 
-### Convolutional neural network Architecture 🏭
+### Solution Architecture 🏭
 
 
 
- 
+ ![alt text](https://github.com/Felipe-Oliveira11/Portfolio/blob/master/template.PNG)
  
 <br>
 <hr>
