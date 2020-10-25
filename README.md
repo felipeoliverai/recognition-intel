@@ -43,10 +43,9 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 ### Solution Architecture 🏭
 
 <br>
- 
- <p align="center">
-    <img src = "https://github.com/felipeoliverai/intel-images/blob/main/references/architecture/cnn-build.jpg" width="100%">
-</p>
+
+ ![alt text](https://github.com/felipeoliverai/intel-images/blob/main/references/architecture/cnn-archicture-01.jpeg)  
+ ![alt text](https://github.com/felipeoliverai/intel-images/blob/main/references/architecture/cnn-archicture-02.jpeg) 
 
  
 <br>
@@ -57,8 +56,7 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 ### Dependencies 🔧
 
- ![alt text](https://github.com/felipeoliverai/intel-images/blob/main/references/architecture/cnn-archicture-01.jpeg)  
- ![alt text](https://github.com/felipeoliverai/intel-images/blob/main/references/architecture/cnn-archicture-02.jpeg) 
+
 (Describe project dependencies) 
 
 <br> 
