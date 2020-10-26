@@ -54,10 +54,26 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 
 
 
-### Dependencies 🔧
+### Libraries used  📚 
 
 
-(Describe project dependencies) 
+```
+├── Tensorflow 2.3.0 
+├── Keras (backend)
+├── Pandas 1.1.3
+├── Numpy 1.8.2
+├── OS 
+├── Matploblib 3.1.0
+├── 
+├── 
+```
 
 <br> 
 <hr>
+<br>
+
+
+Dependencies 🔧
+
+
+
