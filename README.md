@@ -64,8 +64,8 @@ This Data contains around 25k images of size 150x150 distributed under 6 categor
 ├── Numpy 1.8.2
 ├── OS 
 ├── Matploblib 3.1.0
-├── 
-├── 
+├── Tqdm 2.2.2
+├── Scikit-learn 0.22
 ```
 
 <br> 
